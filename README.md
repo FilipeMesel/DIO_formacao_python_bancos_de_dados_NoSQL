@@ -19,9 +19,7 @@ Para testar o projeto, siga os passos abaixo:
     git clone https://github.com/FilipeMesel/DIO_formacao_python_bancos_de_dados_NoSQL.git
 
 
-2. Acesse o diretório do projeto:
-
-    cd dio_integrando_python_com_sqlaichemy
+2. Acesse o diretório do projeto
 
 3. Execute o arquivo "nome_projeto.py" usando o Python 3:
 
